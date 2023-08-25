@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\bin\Debug\net6.0\2.MultidimensionalArrays.exe
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\bin\Debug\net6.0\2.MultidimensionalArrays.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\bin\Debug\net6.0\2.MultidimensionalArrays.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\bin\Debug\net6.0\2.MultidimensionalArrays.dll
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\bin\Debug\net6.0\2.MultidimensionalArrays.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\obj\Debug\net6.0\2.MultidimensionalArrays.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\obj\Debug\net6.0\2.MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\obj\Debug\net6.0\2.MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\obj\Debug\net6.0\2.MultidimensionalArrays.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\obj\Debug\net6.0\2.MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\obj\Debug\net6.0\2.MultidimensionalArrays.dll
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\obj\Debug\net6.0\refint\2.MultidimensionalArrays.dll
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\obj\Debug\net6.0\2.MultidimensionalArrays.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\obj\Debug\net6.0\2.MultidimensionalArrays.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\2.MultidimensionalArrays\obj\Debug\net6.0\ref\2.MultidimensionalArrays.dll
