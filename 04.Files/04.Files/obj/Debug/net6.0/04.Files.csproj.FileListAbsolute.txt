@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\bin\Debug\net6.0\04.Files.exe
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\bin\Debug\net6.0\04.Files.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\bin\Debug\net6.0\04.Files.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\bin\Debug\net6.0\04.Files.dll
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\bin\Debug\net6.0\04.Files.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\obj\Debug\net6.0\04.Files.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\obj\Debug\net6.0\04.Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\obj\Debug\net6.0\04.Files.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\obj\Debug\net6.0\04.Files.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\obj\Debug\net6.0\04.Files.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\obj\Debug\net6.0\04.Files.dll
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\obj\Debug\net6.0\refint\04.Files.dll
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\obj\Debug\net6.0\04.Files.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\obj\Debug\net6.0\04.Files.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\04.Files\04.Files\obj\Debug\net6.0\ref\04.Files.dll
