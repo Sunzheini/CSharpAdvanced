@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\bin\Debug\net6.0\AllLessons.exe
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\bin\Debug\net6.0\AllLessons.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\bin\Debug\net6.0\AllLessons.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\bin\Debug\net6.0\AllLessons.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\bin\Debug\net6.0\AllLessons.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\obj\Debug\net6.0\AllLessons.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\obj\Debug\net6.0\AllLessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\obj\Debug\net6.0\AllLessons.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\obj\Debug\net6.0\AllLessons.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\obj\Debug\net6.0\AllLessons.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\obj\Debug\net6.0\AllLessons.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\obj\Debug\net6.0\refint\AllLessons.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\obj\Debug\net6.0\AllLessons.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\obj\Debug\net6.0\AllLessons.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\AllLessons\obj\Debug\net6.0\ref\AllLessons.dll

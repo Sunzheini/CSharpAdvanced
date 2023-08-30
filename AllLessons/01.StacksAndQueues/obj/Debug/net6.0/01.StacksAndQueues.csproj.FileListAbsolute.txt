@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\bin\Debug\net6.0\01.StacksAndQueues.exe
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\bin\Debug\net6.0\01.StacksAndQueues.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\bin\Debug\net6.0\01.StacksAndQueues.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\bin\Debug\net6.0\01.StacksAndQueues.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\bin\Debug\net6.0\01.StacksAndQueues.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\obj\Debug\net6.0\01.StacksAndQueues.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\obj\Debug\net6.0\01.StacksAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\obj\Debug\net6.0\01.StacksAndQueues.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\obj\Debug\net6.0\01.StacksAndQueues.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\obj\Debug\net6.0\01.StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\obj\Debug\net6.0\01.StacksAndQueues.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\obj\Debug\net6.0\refint\01.StacksAndQueues.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\obj\Debug\net6.0\01.StacksAndQueues.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\obj\Debug\net6.0\01.StacksAndQueues.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\01.StacksAndQueues\obj\Debug\net6.0\ref\01.StacksAndQueues.dll

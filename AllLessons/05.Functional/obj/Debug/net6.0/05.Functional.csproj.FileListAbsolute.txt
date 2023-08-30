@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\bin\Debug\net6.0\05.Functional.exe
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\bin\Debug\net6.0\05.Functional.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\bin\Debug\net6.0\05.Functional.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\bin\Debug\net6.0\05.Functional.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\bin\Debug\net6.0\05.Functional.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\obj\Debug\net6.0\05.Functional.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\obj\Debug\net6.0\05.Functional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\obj\Debug\net6.0\05.Functional.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\obj\Debug\net6.0\05.Functional.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\obj\Debug\net6.0\05.Functional.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\obj\Debug\net6.0\05.Functional.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\obj\Debug\net6.0\refint\05.Functional.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\obj\Debug\net6.0\05.Functional.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\obj\Debug\net6.0\05.Functional.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\05.Functional\obj\Debug\net6.0\ref\05.Functional.dll
