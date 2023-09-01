@@ -5,15 +5,17 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllLessons", "AllLessons\AllLessons.csproj", "{30B810F9-2D74-479F-B98D-7E578463009F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.StacksAndQueues", "01.StacksAndQueues\01.StacksAndQueues.csproj", "{D66D7EEF-6C41-4E4A-9452-C5FDC49204E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.StacksAndQueues", "01.StacksAndQueues\01.StacksAndQueues.csproj", "{D66D7EEF-6C41-4E4A-9452-C5FDC49204E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MultidimensionalArrays", "02.MultidimensionalArrays\02.MultidimensionalArrays.csproj", "{950EA561-7CC4-4E5D-8962-0A93AAF2EBBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MultidimensionalArrays", "02.MultidimensionalArrays\02.MultidimensionalArrays.csproj", "{950EA561-7CC4-4E5D-8962-0A93AAF2EBBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Sets_And_Dicts_Advanced", "03.Sets_And_Dicts_Advanced\03.Sets_And_Dicts_Advanced.csproj", "{4BC57359-FF35-4B59-923C-B30389EFAAEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Sets_And_Dicts_Advanced", "03.Sets_And_Dicts_Advanced\03.Sets_And_Dicts_Advanced.csproj", "{4BC57359-FF35-4B59-923C-B30389EFAAEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Files", "04.Files\04.Files.csproj", "{895752D4-A979-4E52-8BDC-6B30075662C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Files", "04.Files\04.Files.csproj", "{895752D4-A979-4E52-8BDC-6B30075662C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Functional", "05.Functional\05.Functional.csproj", "{788FB9F7-876B-4EE0-90D1-5CE44BBEDBAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Functional", "05.Functional\05.Functional.csproj", "{788FB9F7-876B-4EE0-90D1-5CE44BBEDBAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Classes", "06.Classes\06.Classes.csproj", "{DE32F948-8E4E-4089-AE45-2AD2046F2C44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{788FB9F7-876B-4EE0-90D1-5CE44BBEDBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{788FB9F7-876B-4EE0-90D1-5CE44BBEDBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{788FB9F7-876B-4EE0-90D1-5CE44BBEDBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE32F948-8E4E-4089-AE45-2AD2046F2C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE32F948-8E4E-4089-AE45-2AD2046F2C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE32F948-8E4E-4089-AE45-2AD2046F2C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE32F948-8E4E-4089-AE45-2AD2046F2C44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
