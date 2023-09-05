@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Files", "04.Files\04.Fil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Functional", "05.Functional\05.Functional.csproj", "{788FB9F7-876B-4EE0-90D1-5CE44BBEDBAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Classes", "06.Classes\06.Classes.csproj", "{DE32F948-8E4E-4089-AE45-2AD2046F2C44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Classes", "06.Classes\06.Classes.csproj", "{DE32F948-8E4E-4089-AE45-2AD2046F2C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Generics", "07.Generics\07.Generics.csproj", "{F710D755-D13E-4E23-AC40-13282D64A184}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{DE32F948-8E4E-4089-AE45-2AD2046F2C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE32F948-8E4E-4089-AE45-2AD2046F2C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE32F948-8E4E-4089-AE45-2AD2046F2C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F710D755-D13E-4E23-AC40-13282D64A184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F710D755-D13E-4E23-AC40-13282D64A184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F710D755-D13E-4E23-AC40-13282D64A184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F710D755-D13E-4E23-AC40-13282D64A184}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

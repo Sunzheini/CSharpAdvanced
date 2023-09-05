@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\obj\Debug\net6.0\07.Generics.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\obj\Debug\net6.0\07.Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\obj\Debug\net6.0\07.Generics.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\obj\Debug\net6.0\07.Generics.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\obj\Debug\net6.0\07.Generics.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\bin\Debug\net6.0\07.Generics.exe
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\bin\Debug\net6.0\07.Generics.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\bin\Debug\net6.0\07.Generics.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\bin\Debug\net6.0\07.Generics.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\bin\Debug\net6.0\07.Generics.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\obj\Debug\net6.0\07.Generics.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\obj\Debug\net6.0\refint\07.Generics.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\obj\Debug\net6.0\07.Generics.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\obj\Debug\net6.0\07.Generics.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\07.Generics\obj\Debug\net6.0\ref\07.Generics.dll
