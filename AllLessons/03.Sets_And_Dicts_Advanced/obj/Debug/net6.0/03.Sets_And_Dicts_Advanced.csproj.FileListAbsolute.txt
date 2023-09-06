@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\bin\Debug\net6.0\03.Sets_And_Dicts_Advanced.exe
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\bin\Debug\net6.0\03.Sets_And_Dicts_Advanced.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\bin\Debug\net6.0\03.Sets_And_Dicts_Advanced.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\bin\Debug\net6.0\03.Sets_And_Dicts_Advanced.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\bin\Debug\net6.0\03.Sets_And_Dicts_Advanced.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\obj\Debug\net6.0\03.Sets_And_Dicts_Advanced.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\obj\Debug\net6.0\03.Sets_And_Dicts_Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\obj\Debug\net6.0\03.Sets_And_Dicts_Advanced.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\obj\Debug\net6.0\03.Sets_And_Dicts_Advanced.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\obj\Debug\net6.0\03.Sets_And_Dicts_Advanced.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\obj\Debug\net6.0\03.Sets_And_Dicts_Advanced.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\obj\Debug\net6.0\refint\03.Sets_And_Dicts_Advanced.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\obj\Debug\net6.0\03.Sets_And_Dicts_Advanced.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\obj\Debug\net6.0\03.Sets_And_Dicts_Advanced.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\03.Sets_And_Dicts_Advanced\obj\Debug\net6.0\ref\03.Sets_And_Dicts_Advanced.dll

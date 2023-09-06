@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\bin\Debug\net6.0\09.Inheritance.exe
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\bin\Debug\net6.0\09.Inheritance.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\bin\Debug\net6.0\09.Inheritance.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\bin\Debug\net6.0\09.Inheritance.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\bin\Debug\net6.0\09.Inheritance.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\obj\Debug\net6.0\09.Inheritance.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\obj\Debug\net6.0\09.Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\obj\Debug\net6.0\09.Inheritance.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\obj\Debug\net6.0\09.Inheritance.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\obj\Debug\net6.0\09.Inheritance.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\obj\Debug\net6.0\09.Inheritance.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\obj\Debug\net6.0\refint\09.Inheritance.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\obj\Debug\net6.0\09.Inheritance.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\obj\Debug\net6.0\09.Inheritance.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\09.Inheritance\obj\Debug\net6.0\ref\09.Inheritance.dll

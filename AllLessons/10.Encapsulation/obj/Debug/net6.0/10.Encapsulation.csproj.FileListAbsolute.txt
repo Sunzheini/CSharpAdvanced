@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\bin\Debug\net6.0\10.Encapsulation.exe
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\bin\Debug\net6.0\10.Encapsulation.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\bin\Debug\net6.0\10.Encapsulation.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\bin\Debug\net6.0\10.Encapsulation.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\bin\Debug\net6.0\10.Encapsulation.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\obj\Debug\net6.0\10.Encapsulation.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\obj\Debug\net6.0\10.Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\obj\Debug\net6.0\10.Encapsulation.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\obj\Debug\net6.0\10.Encapsulation.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\obj\Debug\net6.0\10.Encapsulation.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\obj\Debug\net6.0\10.Encapsulation.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\obj\Debug\net6.0\refint\10.Encapsulation.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\obj\Debug\net6.0\10.Encapsulation.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\obj\Debug\net6.0\10.Encapsulation.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\10.Encapsulation\obj\Debug\net6.0\ref\10.Encapsulation.dll

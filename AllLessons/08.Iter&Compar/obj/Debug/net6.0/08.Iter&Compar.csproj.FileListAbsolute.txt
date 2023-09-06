@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\bin\Debug\net6.0\08.Iter&Compar.exe
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\bin\Debug\net6.0\08.Iter&Compar.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\bin\Debug\net6.0\08.Iter&Compar.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\bin\Debug\net6.0\08.Iter&Compar.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\bin\Debug\net6.0\08.Iter&Compar.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\obj\Debug\net6.0\08.Iter&Compar.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\obj\Debug\net6.0\08.Iter&Compar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\obj\Debug\net6.0\08.Iter&Compar.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\obj\Debug\net6.0\08.Iter&Compar.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\obj\Debug\net6.0\08.Iter&Compar.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\obj\Debug\net6.0\08.Iter&Compar.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\obj\Debug\net6.0\refint\08.Iter&Compar.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\obj\Debug\net6.0\08.Iter&Compar.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\obj\Debug\net6.0\08.Iter&Compar.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\08.Iter&Compar\obj\Debug\net6.0\ref\08.Iter&Compar.dll

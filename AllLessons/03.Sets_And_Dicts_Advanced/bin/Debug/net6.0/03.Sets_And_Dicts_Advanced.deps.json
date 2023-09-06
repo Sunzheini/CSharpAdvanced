@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "03.Sets_And_Dicts_Advanced/1.0.0": {
+        "runtime": {
+          "03.Sets_And_Dicts_Advanced.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03.Sets_And_Dicts_Advanced/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
