@@ -19,7 +19,7 @@
             // : base == super in python
 
             // --------------------------------------------------
-            // if child class redefines fields, methods it overrides the inherited
+            // if child class redefines fields/ methods it overrides the inherited
             // but with base.Name you access the base class fields / methods
 
             // --------------------------------------------------

@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\bin\Debug\net6.0\11.Abstraction.exe
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\bin\Debug\net6.0\11.Abstraction.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\bin\Debug\net6.0\11.Abstraction.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\bin\Debug\net6.0\11.Abstraction.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\bin\Debug\net6.0\11.Abstraction.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\obj\Debug\net6.0\11.Abstraction.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\obj\Debug\net6.0\11.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\obj\Debug\net6.0\11.Abstraction.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\obj\Debug\net6.0\11.Abstraction.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\obj\Debug\net6.0\11.Abstraction.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\obj\Debug\net6.0\11.Abstraction.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\obj\Debug\net6.0\refint\11.Abstraction.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\obj\Debug\net6.0\11.Abstraction.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\obj\Debug\net6.0\11.Abstraction.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\11.Abstraction\obj\Debug\net6.0\ref\11.Abstraction.dll

@@ -1,0 +1,15 @@
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\bin\Debug\net6.0\13.Reflection.exe
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\bin\Debug\net6.0\13.Reflection.deps.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\bin\Debug\net6.0\13.Reflection.runtimeconfig.json
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\bin\Debug\net6.0\13.Reflection.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\bin\Debug\net6.0\13.Reflection.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\obj\Debug\net6.0\13.Reflection.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\obj\Debug\net6.0\13.Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\obj\Debug\net6.0\13.Reflection.AssemblyInfoInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\obj\Debug\net6.0\13.Reflection.AssemblyInfo.cs
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\obj\Debug\net6.0\13.Reflection.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\obj\Debug\net6.0\13.Reflection.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\obj\Debug\net6.0\refint\13.Reflection.dll
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\obj\Debug\net6.0\13.Reflection.pdb
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\obj\Debug\net6.0\13.Reflection.genruntimeconfig.cache
+C:\Appl\Projects\C#\CSharpAdvanced\AllLessons\13.Reflection\obj\Debug\net6.0\ref\13.Reflection.dll

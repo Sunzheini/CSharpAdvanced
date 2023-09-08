@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+            // bundling data and the methods
+            // that operate on that data into a single class
+
             // Hide the unnecessary details from the outside world.
             // what is exposed is called contract
             // what is hidden is called implementation
